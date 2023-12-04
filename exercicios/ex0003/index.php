@@ -13,7 +13,7 @@
 <body>
     <h1>Teste de tipos primitivos</h1>
     <?php 
-        // 0x= hexadecimal 0b= binario 0= Octal
+        // {0x= é hexadecimal} [0b= é binario] (0= é Octal)
         //$num = 0x1A;
         //echo "O valor da variavel é $num";
 
@@ -46,6 +46,8 @@
       //echo "Eu adoro o " . CANAL;
 
       # echo "Estamos no ano de " . date('Y'); //para pegar ano atual 
+
+     // var_dump(); é muito util para testar tipos primitivos , para saber qual tipo que é ,(string, int,float)
     ?>
     
 </body>
