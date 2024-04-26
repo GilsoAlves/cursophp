@@ -8,7 +8,7 @@
 </head>
 <body>
     <main>
-        <h1>Conversor de Moedas:</h1>
+        <h1>Conversor de Moedas Avançado:</h1>
         <?php 
             //Cotação vinda da API do Banco Central
             $inicio = date("m-d-Y", strtotime("-7 days"));

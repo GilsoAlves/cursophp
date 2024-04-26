@@ -33,6 +33,7 @@
 
                 echo "<h1>Superglobal ENV</h1>";
                 var_dump($_ENV);
+                
                 //foreach(getenv() as $c => $v){
                 //    echo "<br>$c -> $v ";
                 //}

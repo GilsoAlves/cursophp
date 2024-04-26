@@ -13,7 +13,8 @@
         ?>
 
     </h1>
-    <p>Vamos tentar nos livrar da Maldição</p>
+    <p>Vamos tentar nos livrar da Maldição </p>
+    <p>Vamos treinar PHP, voltado para servidor.</p>
     
 </body>
 </html>
