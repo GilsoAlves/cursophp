@@ -5,9 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        *{
+            height: 100%;
+        }
         body {
             color: white;
-            background-color: blue;
+            background-image: linear-gradient(to bottom, blue , green )
+            
+        }
+        h1{
+            color: black;
+            text-align: center;
         }
 
     </style>
